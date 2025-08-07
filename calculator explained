@@ -1,0 +1,13 @@
+Mini Calculator
+
+This is a basic calculator project made using Python functions.
+
+## Features:
+- Add
+- Subtract
+- Multiply
+- Divide
+
+## How to run:
+Just run `calculator.py` in any Python IDE.
+it is based on input operations and if else statements
