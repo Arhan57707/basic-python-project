@@ -1,0 +1,20 @@
+ Guess the Number Game (Python)
+
+This is a simple **guessing game** built using Python.  
+The program randomly picks a number, and the player has to guess it in as few tries as possible
+
+' How it works:
+
+- The computer picks a **random number** between 1 and 100.
+- The player enters their **guesses**.
+- The game tells the player if the guess is:
+  - incorrect
+  -  Correct
+
+ How to Run:
+
+1. Make sure you have **Python installed**.
+2. Download or clone this repo.
+3. Open a terminal or command prompt in the project folder.
+4. Run the program:
+
