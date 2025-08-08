@@ -9,4 +9,3 @@ if op=="*":
     print(number1*number2)
 if op=="/":
     print(number1/number2)
-1
